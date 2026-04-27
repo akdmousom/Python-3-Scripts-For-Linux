@@ -1,6 +1,6 @@
-#!/usr/share/python3
+#!/usr/bin/python3
 
-#This is a simple script. The script shows your current path
+#This is a simple script. The script shows your current directory file list
 
 import os #here I import the os module, which is a Python module
 
